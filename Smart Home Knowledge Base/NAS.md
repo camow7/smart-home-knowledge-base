@@ -1,0 +1,2 @@
+- https://www.synology.com/en-us
+- https://www.qnap.com/en-us

@@ -29,9 +29,21 @@
               "pinned": true
             },
             "group": "2079b62498f148dc"
+          },
+          {
+            "id": "459306a04a9f304b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Smart Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "173dd34f0cb6c39b",
@@ -67,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.4518307155719508,
+                  "scale": 0.8897383983458126,
                   "close": false
                 }
               },
@@ -202,23 +214,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc403510716c26fb",
+  "active": "459306a04a9f304b",
   "lastOpenFiles": [
-    "Network.md",
+    "Security.md",
     "The Smart Home.md",
+    "User Interface.md",
+    "NAS.md",
+    "OpenHAB.md",
+    "Network.md",
     "Netgear Orbi.md",
     "Cleaning.md",
     "Deebot T9+.md",
     "Measurement.md",
     "Nest Protect.md",
     "Control.md",
-    "Security.md",
     "eufy Dual Camera Doorbell.md",
     "eufy Smart Lock Touch.md",
     "eufyCam 3.md",
     "eufy Security.md",
     "eufy Security Homebase 3.md",
-    "User Interface.md",
     "Home Assistant.md",
     "Samsung Smart Things.md",
     "Apple Home.md",

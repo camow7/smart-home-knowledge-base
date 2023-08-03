@@ -4,3 +4,4 @@ List of commonly used user interface for smart homes.
 - [[Apple Home]]
 - [[Samsung Smart Things]] 
 - [[Home Assistant]] 
+- [[OpenHAB]] 
