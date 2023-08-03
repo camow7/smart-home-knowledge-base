@@ -18,13 +18,15 @@
           {
             "id": "bc403510716c26fb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "The Smart Home.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             },
             "group": "2079b62498f148dc"
           }
@@ -38,6 +40,7 @@
           {
             "id": "5bdc36e91dccfd1e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "localgraph",
               "state": {
@@ -64,10 +67,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 2.4518307155719508,
                   "close": false
                 }
-              }
+              },
+              "pinned": true
             },
             "group": "2079b62498f148dc"
           }
@@ -201,8 +205,8 @@
   "active": "bc403510716c26fb",
   "lastOpenFiles": [
     "Network.md",
-    "Netgear Orbi.md",
     "The Smart Home.md",
+    "Netgear Orbi.md",
     "Cleaning.md",
     "Deebot T9+.md",
     "Measurement.md",
