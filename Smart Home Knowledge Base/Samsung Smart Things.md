@@ -1,0 +1,1 @@
+Native Samsung app for integrating smart devices from Samsung and 3rd parties together.
